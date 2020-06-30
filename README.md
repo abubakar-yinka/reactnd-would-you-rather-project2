@@ -1,6 +1,6 @@
 # Would You Rather Project
 
-Would You Rather is a fully responsive, dynamic and mobile-ready web application in which users are given questtions and must choose one of them. You can also be able to create your own set of questions, choose between them, keep track of question popularity and also rank one another based on the total number of questions asked and answered. It leverages the strengths of redux!
+Would You Rather is a fully responsive, dynamic and mobile-ready web application in which users are given questions and must choose one of them. You can also be able to create your own set of questions, choose between them, keep track of question popularity and also rank one another based on the total number of questions asked and answered. It leverages the strengths of redux!
 
 It's built with React, Redux, React Router, & Redux Thunk. The Semantic-UI-React was an invaluable tool which enabled me to mock up the frontend quickly and beautifully.
 
